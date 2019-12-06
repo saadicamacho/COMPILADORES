@@ -10,13 +10,13 @@ Desde el principio el hombre buscaba la forma de calcular números de grandes ci
 
 Con el tiempo las computadoras han ido evolucionando y los lenguajes de programación han ido mejorando para brindarle mayor facilidad a las personas, para realizar sus propias aplicaciones y programas; así como también mejorar el rendimiento de las computadoras. Los leguajes de programación son calificados en dos tipos: Los de **bajo nivel**, el cual eran muy difíciles de entender, pues eran desarrollados para que las maquinas los entendieran directamente, eran abstractos y se encargaban de enviar señales al hardware para hacer los procesos. Luego gracias a la invención de los compiladores, que se encargan de traducir el código para que sea comprendido por la máquina y los lenguajes se han hecho más amigables y comprensibles para las personas, este lenguaje se denomina como de **alto nivel**.
 
-Los primeros computadores estaba primariamente escrito en lenguaje ensamblador. Normalmente para un programador es más productivo usar un lenguaje de alto nivel, y los programas escritos en lenguajes de alto nivel pueden ser reutilizados en distintos tipos de computadores. 
+Los primeros computadores estaban escritos en lenguaje ensamblador. Normalmente para un programador es más productivo usar un lenguaje de alto nivel, y los programas escritos en lenguajes de alto nivel pueden ser reutilizados en distintos tipos de computadores. 
 
-El primer compilador fue escrito por Grace Hopper, en 1952, para el lenguaje Sistema A-0. El término compilador fue acuñado por Hopper. El equipo FORTRAN dirigido por John W. Backus de IBM está generalmente acreditado por haber presentado el primer compilador completo, en 1957. El primer compilador FORTRAN necesitó de 18 años-persona para su creación.
+El primer compilador fue escrito por Grace Hopper, en 1952, para el lenguaje Sistema A-0. El término compilador fue acuñado por **Hopper**. El equipo **FORTRAN** dirigido por **John W**. Backus de IBM está generalmente acreditado por haber presentado el primer compilador completo, en 1957. El primer compilador **FORTRAN** necesitó de 18 años-persona para su creación.
 
-En 1960, un compilador FORTRAN extendido, ALTAC, estaba también disponible en el Philco 2000, por lo que es probable que un programa FORTRAN fuera compilado para ambas arquitecturas de computadores a mediados de los años 60. El primer lenguaje de alto nivel multiplataforma demostrado fue COBOL. En una demostración en diciembre de 1960, un programa COBOL fue compilado y ejecutado en el UNIVAC II y el RCA 501.
+En 1960, un compilador **FORTRAN** extendido, **ALTAC**, estaba también disponible en el Philco 2000, por lo que es probable que un programa **FORTRAN** fuera compilado para ambas arquitecturas de computadores a mediados de los años 60. El primer lenguaje de alto nivel multiplataforma demostrado fue **COBOL**. En una demostración en diciembre de 1960, un programa **COBOL** fue compilado y ejecutado en el **UNIVAC II y el RCA 501**.
 
-El compilador COBOL para el UNIVAC II fue probablemente el primero en ser escrito en un lenguaje de alto nivel, llamado FLOW-MATIC, por un equipo dirigido por Grace Hopper.
+El compilador **COBOL** para el **UNIVAC II** fue probablemente el primero en ser escrito en un lenguaje de alto nivel, llamado **FLOW-MATIC**, por un equipo dirigido por **Grace Hopper**.
 
 ![alt text](https://4.bp.blogspot.com/-9pGaQRxsHhc/WyLFyxrlNEI/AAAAAAAAABA/wsAh-H375ScobTRz2BSX0EtAl3IVD7dvwCLcBGAs/s1600/CU00611B_1.png)
 
