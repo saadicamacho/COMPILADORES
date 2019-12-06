@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## HISTORIA
 
-You can use the [editor on GitHub](https://github.com/saadicamacho/COMPILADORES/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Desde el principio el hombre buscaba la forma de calcular números de grandes cifras, iniciando desde la invención del ábaco, el cual se usaba para hacer cálculos limitados a solo sumas, pero a medida que fue creciendo el mercado, llego el momento en que pascal en 1642 inventara una máquina que suma y resta; con el tiempo surgieron otras que multiplicaban y dividían. Muchos años después se crea un equipo gigante movido por vapor que recibía los datos mediante cartones perforados, idea que más tarde fue aplicada. Luego que pasaron los años el hombre aparte de calcular necesitaba maquinas que guardaran información, por eso con el tiempo se creó una máquina para censar la población en Estados Unidos que funcionaba con tarjetas perforadas en el año 1890. Después de medio siglo entra la primera computadora electro mecánica que pesaba 2 toneladas creada por el profesor Howar Aiken.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+###
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
